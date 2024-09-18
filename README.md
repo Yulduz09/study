@@ -1,2 +1,2 @@
 # study
-this repo is for studi
+# this repo is for study.
